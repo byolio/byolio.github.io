@@ -4,3 +4,6 @@ Now in my sophomore year, I serve as the class academic representative. I have a
 
 Physically, I am mostly based in Wuhan, China, while my digital presence spans across platforms like [Bilibili](https://www.bilibili.com/), [YouTube](https://www.youtube.com/), and [X](https://www.x.com) (formerly Twitter).
 
+Finally, welcome to my blog where I will share my thoughts, experiences, and some interesting insights on life and technology. Whether you are a first-time visitor or a regular old friend, you are welcome to leave comments and interact in the comment section below. Every comment you make is an encouragement to me, and I look forward to discussing and exchanging various topics with you. Thank you for your support and help!
+
+PS: If you cannot see the comment section, please use magic to refresh the page (doge).
