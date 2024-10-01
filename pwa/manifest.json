@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+    "name": "Byolio Blog",
+  "short_name": "Byolio Blog",
+  "description": "About an engineer & designer who loves tech.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
