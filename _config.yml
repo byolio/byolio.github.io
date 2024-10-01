@@ -92,6 +92,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: " Van_Vodkaer", href: "http://blog.vodkaer.com" }
-    { title: " ShallowDream", href: "https://www.cnblogs.com/ShallowDream7933/p/18438517" },
+    { title: " Van_Vodkaer", href: "http://blog.vodkaer.com" },
+    { title: " ShallowDream", href: "https://www.cnblogs.com/ShallowDream7933/p/18438517" }
   ]
