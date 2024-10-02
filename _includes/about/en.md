@@ -2,7 +2,7 @@ I am LiaoRuiPeng (byolio, @byolio), a young person with some knowledge of comput
 
 Now in my sophomore year, I serve as the class academic representative. I have accumulated some experience in technical studies and have dabbled in various areas of technology, aspiring to become a [Full Stack engineer](https://baike.baidu.com/link?url=3gCZSXxlXsoLG2GrDuE_suthm8bBEdAoF37GFMBiBCJOwA0UInbPIqVHcRMVWsWAfVAC13PjwjmJ0BG7nQP2tz88Lv2ouEkxRtqDM8Q-C9iDWQaWJxYq-Ds5Y4UmzVQv).
 
-Physically, I am mostly based in Wuhan, China, while my digital presence spans across platforms like [Bilibili](https://www.bilibili.com/), [YouTube](https://www.youtube.com/), and [X](https://www.x.com) (formerly Twitter).
+Physically, I am mostly based in Wuhan or Shenzhen, China, while my digital presence spans across platforms like [Bilibili](https://www.bilibili.com/), [YouTube](https://www.youtube.com/), and [X](https://www.x.com) (formerly Twitter).
 
 Finally, welcome to my blog where I will share my thoughts, experiences, and some interesting insights on life and technology. Whether you are a first-time visitor or a regular old friend, you are welcome to leave comments and interact in the comment section below. Every comment you make is an encouragement to me, and I look forward to discussing and exchanging various topics with you. Thank you for your support and help!
 
