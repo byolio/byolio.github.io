@@ -4,7 +4,7 @@ title:      "浅谈-图灵测试对ai真的有用吗"
 subtitle:   "简单聊一聊当今如何测试ai的智能"
 date:       2024-10-16
 author:     "Byolio"
-header-img: "img/post-bg-TuringTest"
+header-img: "img/post-bg-TuringTest.png"
 catalog: true
 tags:
     - 浅谈
