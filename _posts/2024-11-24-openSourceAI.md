@@ -7,6 +7,7 @@ author:     "Byolio"
 header-img: "img/AI-PC.jpg"
 catalog: true
 tags:
+    - 浅谈
     - AI
 ---
 > 本次测试主要使用的是笔电常见的本地部署模型测试。
