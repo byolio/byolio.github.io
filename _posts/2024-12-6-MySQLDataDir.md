@@ -37,7 +37,7 @@ ibd2sdi --dump-file=table.txt table.ibd
    表空间文件和表结构文件分开存放在数据库的文件夹下
 2. 系统表空间(MySQL5.66之前):
     将表空间文件和表结构文件放在一起存放在`/var/lib/mysql`下一个文件中
-(可以修改my.cnf文件中的`innodb_file_-per_table`参数, 0:代表使用系统表空间；1：代表使用独立表空间)
+(可以在my.cnf文件中的`[server]段落`下添加`innodb_file_-per_table`参数并赋予对应值, 0:代表使用系统表空间；1：代表使用独立表空间)
 
 
 ## 视图
