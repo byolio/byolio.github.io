@@ -22,7 +22,7 @@ Broker启动时，会每30s向NameSrv上报自己的信息，NameSrv每10s钟会
 2. brokerAddrTable
 其描述了每个brokerName的信息，包含Broker的名字，以及对应的ip地址等等。
 3. clusterAddrTable
-Broker有集群的概念，这个map就是记录集群和对应Broker的关联关系, 通过集群名就能找到所有在这个集群下的`Broker`。
+Broker有集群的概念，这个map就是记录集群和对应Broker的关联关系, 通过集群名就能找到所有在这个集群下的Broker。
 4. brokerLiveTable
 这个map记录了每个Broker的存活状态，通过BrokerAddr就能找到对应的Broker最新上报的更新时间、版本号、读写channel等。
 5. filterServerTable
