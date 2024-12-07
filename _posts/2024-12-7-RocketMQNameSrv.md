@@ -2,7 +2,7 @@
 layout:     post
 title:      "RocketMQ的NameSrv的工作原理"
 subtitle:   "RocketMQ的NameSrv原理解释"
-date:       2024-12-5
+date:       2024-12-7
 author:     "Byolio"
 header-img: "img/RocketMQNameSrv.jpg"
 catalog: true
