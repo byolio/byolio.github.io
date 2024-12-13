@@ -94,7 +94,6 @@ softmax = nn.Softmax(dim=None)
 ```
 参数:
 * dim: 计算Softmax的处理维度 (默认为None)
-### sigmoid
 #### nn.Sigmoid
 nn.Sigmoid是PyTorch中用于定义Sigmoid激活函数的类。它接受输入作为参数，并在内部计算Sigmoid函数的值。在前向传播的过程中，它将输入与Sigmoid函数进行运算，然后通过激活函数进行非线性变换。
 ```python
