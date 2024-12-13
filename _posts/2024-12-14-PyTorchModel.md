@@ -4,7 +4,7 @@ title:      "PyTorch建立AI模型需要那些Module"
 subtitle:   "让我们快速了解PyTorch建立一个AI模型需要那些Module"
 date:       2024-12-14
 author:     "Byolio"
-header-img: "img/PyTorchModel.jpg"
+header-img: "img/Post-PyTorchModel.jpg"
 catalog: true
 tags:
     - AI
