@@ -124,6 +124,15 @@ batchnorm2d = nn.BatchNorm2d(num_features, eps=1e-05, momentum=0.1, affine=True,
 * momentum: 用于计算运行平均值和方差的动量
 * affine: 是否使用可学习的仿射变换 (默认为True)
 * track_running_stats: 是否跟踪运行平均值和方差 (默认为True)
+### 展平层（Flatten Layer）:
+#### nn.Flatten
+nn.Flatten是PyTorch中用于定义展平层的类。它接受输入的维度作为参数，并在内部将输入展平为一维向量。在前向传播的过程中，它将输入展平为一维向量，然后通过展平操作进行下采样。
+```python
+flatten = nn.Flatten(start_dim=1, end_dim=-1)
+```
+参数:
+* start_dim: 展平的起始维度
+* end_dim: 展平的结束维度 (默认为-1), 展平到最后一个维度
 ### 损失函数（Loss Function）:
 #### nn.CrossEntropyLoss
 nn.CrossEntropyLoss是PyTorch中用于定义交叉熵损失函数的类。它接受输入和目标标签作为参数，并在内部计算交叉熵损失。在前向传播的过程中，它将输入与目标标签进行运算，然后通过损失函数进行损失计算。
@@ -181,7 +190,32 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
     loss.backward()
     optimizer.step()
     ```
-    
-    
+## 例子(此例子用于指示模型建立顺序, 训练不同模型时其Module会有所不同):
+```python
+class ByolioModel(nn.Module):
+    def __init__(self):
+        super(MyModel, self).__init__()
+        # 使用序列化模型定义
+        self.model = nn.Sequential(
+        nn.Conv2d(1, 10, kernel_size=3, stride=1, padding=1),
+        nn.MaxPool2d(2),
+        nn.BatchNorm2d(10),
+        nn.Flatten(),
+        nn.Linear(10, 10),
+        nn.Linear(10, 1),
+        nn.Sigmoid()
+        )
+    def forward(self, x):
+        # 定义前向传播的过程
+        x = self.model(x)
+        return x
+
+if __name__ == '__main__':  
+    # 定义模型
+    model = ByolioModel()
+    loss_fn = nn.CrossEntropyLoss()
+    optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+```
+
 ## 总结
 以上就是PyTorch建立一个AI模型所需的Module, 希望这篇文章能够帮助到你。
