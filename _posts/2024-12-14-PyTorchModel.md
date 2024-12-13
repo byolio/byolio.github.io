@@ -191,7 +191,9 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
     optimizer.step()
     ```
 ## 例子(此例子用于指示模型建立顺序, 训练不同模型时其Module会有所不同):
+
 ```python
+
 class ByolioModel(nn.Module):
     def __init__(self):
         super(MyModel, self).__init__()
@@ -215,6 +217,7 @@ if __name__ == '__main__':
     model = ByolioModel()
     loss_fn = nn.CrossEntropyLoss()
     optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+
 ```
 
 ## 总结
