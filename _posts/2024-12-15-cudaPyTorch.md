@@ -7,7 +7,7 @@ author:     "Byolio"
 header-img: "img/post-cudaPyTorch.jpg"
 catalog: true
 tags:
-    - AI
+    - python
     - PyTorch
     - cuda
 ---
