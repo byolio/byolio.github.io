@@ -2,7 +2,7 @@
 layout:     post
 title:      "将电脑改为Ubuntu系统"
 subtitle:   "将手中的旧电脑改为Ubuntu系统"
-date:       2024-1-17
+date:       2025-1-17
 author:     "Byolio"
 header-img: "img/ubuntu.jpg"
 catalog: true
