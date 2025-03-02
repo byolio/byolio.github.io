@@ -16,7 +16,7 @@ tags:
 我在[如何部署hadoop集群 (一)](https://byolio.top/2025/02/23/hadoopdeploy/)中已经布置好了一台虚拟机, 接下来我们需要在这一台虚拟机上安装jdk和hadoop依赖, 以便我们后续的hadoop集群部署。
 
 ## 什么是JDK
-`JDK`是`Java Development Kit`的缩写，是Java开发工具包的缩写。它是Java开发人员使用的软件开发工具包，包含了Java运行环境（JRE）、Java编译器（javac）和Java调试器（jdb）等工具。JDK是Java开发的基础，它提供了Java程序开发所需的所有工具和环境。Hadoop3.x是基于Java开发的，因此需要安装JDK才能部署Hadoop3.x集群。
+`JDK`是`Java Development Kit`的缩写，是Java开发工具包。它是Java开发人员使用的软件开发工具包，包含了Java运行环境（JRE）、Java编译器（javac）和Java调试器（jdb）等工具。JDK是Java开发的基础，它提供了Java程序开发所需的所有工具和环境。Hadoop3.x是基于Java开发的，因此需要安装JDK才能部署Hadoop3.x集群。
 
 ## Hadoop3.x的JDK依赖版本
 我建议部署Hadoop3.x中, 部署JDK1.8(Java 8)作为其依赖版本, 许多Hadoop相关的工具和库都已经为JDK1.8优化，因此Java 8提供了最好的兼容性和性能。而Java 9+可能会导致一些问题, 因为Java 9+引入了模块化系统（Jigsaw），这会导致一些与Hadoop3.x相关的依赖或库出现兼容性问题。如果你已经部署Java 9+版本, 我将在FAQ中给出解决方案。
