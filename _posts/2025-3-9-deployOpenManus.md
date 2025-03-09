@@ -58,7 +58,8 @@ INFO     [root] Anonymized telemetry enabled. See https://docs.browser-use.com/d
 Enter your prompt (or 'exit' to quit):
 ```
 在下面输入你想要问的问题, 然后回车, 就可以得到OpenManus的回答了。
+
 注 : OpenManus在使用过程中可能会调用浏览器并且会弹出网页, 这是正常智能体AI在查找信息, 请不要关闭网页, 否则会导致OpenManus跳过正在查找的信息。
 
 ### 总结
-本章主要介绍了OpenManus的部署与使用, 希望能够帮助更多的人使用上OpenManus。
+本章主要介绍了OpenManus的部署与使用, 希望能够帮助你使用上OpenManus。
