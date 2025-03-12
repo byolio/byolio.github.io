@@ -57,7 +57,7 @@ vim /etc/sysconfig/network-scripts/ifcfg-ens33
 
 ### 配置hosts文件
 为了方便接下来的集群配置和防止出现虚拟机ip修改后需要进行大量配置修改的情况, 我们需要配置hosts文件, 这样可以方便我们在集群中使用主机名来访问集群中的其他主机。
-### 配置linux的hosts文件
+#### 配置linux的hosts文件
 ```bash
 vim /etc/hosts
 ```
@@ -72,7 +72,7 @@ vim /etc/hosts
 
 将所用主机经过上述配置后, 完成linux的hosts文件配置。
 
-### 配置windows的hosts文件
+#### 配置windows的hosts文件
 打开`C:\Windows\System32\drivers\etc\`路径下的`hosts`文件, 在其中按照如下格式在末尾添加主机名和IP地址:   ip 主机名 \
 如:
 ```txt
@@ -90,7 +90,7 @@ ping hadoop103
 
 ### 配置ssh免密登录
 在hadoop中我们使用一台服务器通过ssh操控其他服务器需要输入密码, 因此我们需要配置ssh免密登录, 节省掉大量输入密码的时间
-#### 配置hadoop主机的ssh免密登录
+代码如下:
 ```bash
 ssh-keygen -t rsa
 ```
