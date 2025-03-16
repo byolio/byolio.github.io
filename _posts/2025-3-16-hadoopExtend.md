@@ -4,7 +4,7 @@ title:      "如何部署hadoop集群 (四)"
 subtitle:   "让我们了解部分hadoop部署过程中的扩展知识"
 date:       2025-3-16
 author:     "Byolio"
-header-img: "img/hadoopCopy.jpg"
+header-img: "img/hadoopExtend.jpg"
 catalog: true
 tags:
     - linux
