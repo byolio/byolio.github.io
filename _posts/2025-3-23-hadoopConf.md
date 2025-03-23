@@ -89,7 +89,7 @@ cd yarn-site.xml # 进入yarn配置文件
 2. yarn.resourcemanager.hostname - hadoopname03 该属性指定了YARN ResourceManager的主机名或地址。hadoopname03是YARN资源管理器的主机名，负责管理集群中的计算资源，调度作业，并协调任务的执行。
 3. yarn.nodemanager.env-whitelist - JAVA_HOME,HADOOP_COMMON_HOME,HADOOP_HDFS_HOME,HADOOP_CONF_DIR,CLASSPATH_PREPEND_DISTCACHE,HADOOP_YARN_HOME,HADOOP_MAPRED_HOME 这个属性设置了NodeManager环境变量的白名单。当NodeManager启动时，它会从白名单中读取并允许这些环境变量。这些变量通常是指向Hadoop和Java相关的环境配置，如JAVA_HOME、HADOOP_COMMON_HOME等。此设置确保NodeManager能够访问正确的环境变量，以便能够正确运行和管理任务。
 4. yarn.log-aggregation-enable - true 这个属性启用YARN的日志聚合功能。当设置为true时，YARN会将所有执行任务的日志文件聚合到一个集中位置，而不是保存在单独的节点上。这有助于简化日志管理，特别是在处理大规模集群时。
-5. yarn.log.server.url - http://hadoopname01:19888/jobhistory/logs 该属性指定了日志服务器的URL地址。http://hadoopname01:19888/jobhistory/logs是YARN日志服务器的Web界面地址，可以通过此地址查看集群中作业的日志。用户可以访问这个地址来查看作业的执行日志、错误信息以及详细的运行状态。
+5. yarn.log.server.url - `http://hadoopname01:19888/jobhistory/logs` 该属性指定了日志服务器的URL地址。`http://hadoopname01:19888/jobhistory/logs` 是YARN日志服务器的Web界面地址，可以通过此地址查看集群中作业的日志。用户可以访问这个地址来查看作业的执行日志、错误信息以及详细的运行状态。
 6. yarn.log-aggregation.retain-seconds - 604800 这个属性设置了日志聚合后保留日志的时长（以秒为单位）。604800秒相当于7天。这意味着YARN将保留聚合后的作业日志7天，超过此时间的日志会被自动删除。此设置帮助管理员管理存储空间，防止日志文件无限制地占用磁盘空间。
 
 ## 配置mapreduce
