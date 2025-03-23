@@ -138,6 +138,7 @@ cd core-site.xml # 进入core配置文件
 ```
 * 注 : /path/to/hadoopfile/为hadoop安装目录, 根据需要进行修改
 ### 配置文件内容
+
 ```xml
 <configuration>
 <property>
