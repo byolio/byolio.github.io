@@ -18,6 +18,7 @@ tags:
 ## 配置hdfs
 `HDFS`(Hadoop Distributed File System)是`Apache Hadoop`生态系统的核心组件之一，是一个专为大数据存储和处理而设计的分布式文件系统。
 ### 打开配置文件
+
 ```bash
 cd /path/to/hadoopfile/ # 进入hadoop安装目录
 cd etc/hadoop/ # 进入hadoop配置文件目录
@@ -25,6 +26,7 @@ cd hdfs-site.xml # 进入hdfs配置文件
 ```
 * 注 : /path/to/hadoopfile/为hadoop安装目录, 根据需要进行修改
 ### 配置文件内容
+
 ```xml
 <configuration>
 <property>
@@ -54,6 +56,7 @@ cd yarn-site.xml # 进入yarn配置文件
 ```
 * 注 : /path/to/hadoopfile/为hadoop安装目录, 根据需要进行修改
 ### 配置文件内容
+
 ```xml
   <property>
     <name>yarn.nodemanager.aux-services</name>
@@ -102,6 +105,7 @@ cd mapred-site.xml # 进入mapreduce配置文件
 ```
 * 注 : /path/to/hadoopfile/为hadoop安装目录, 根据需要进行修改
 ### 配置文件内容
+
 ```xml
 <configuration>
 <property>
