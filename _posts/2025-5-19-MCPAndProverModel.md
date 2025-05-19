@@ -2,9 +2,9 @@
 layout:     post
 title:      "浅谈 -- 什么是MCP和ProverModel"
 subtitle:   "目前大火的MCP和ProverModel是什么？"
-date:       2024-10-6
+date:       2025-5-19
 author:     "Byolio"
-header-img: "img/MCPAndProverModel.png"
+header-img: "img/MCPAndProverModel.jpg"
 catalog: true
 tags:
     - AI
