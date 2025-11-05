@@ -58,7 +58,7 @@ jobs:
           
       - name: Upload Artifact (ZIP for custom deployment)
         # 将 ZIP 文件保存为工作流程 Artifact，您可以在 Actions 界面或新的 Job 中下载
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: jekyll-site-zip
           path: site_artifact.zip
