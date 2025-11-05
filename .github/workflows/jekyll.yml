@@ -50,6 +50,19 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      
+      - name: Archive site to a ZIP file
+        # 创建 site_artifact.zip 包含 _site 目录
+        run: |
+          zip -r site_artifact.zip _site/
+          
+      - name: Upload Artifact (ZIP for custom deployment)
+        # 将 ZIP 文件保存为工作流程 Artifact，您可以在 Actions 界面或新的 Job 中下载
+        uses: actions/upload-artifact@v3
+        with:
+          name: jekyll-site-zip
+          path: site_artifact.zip
+          retention-days: 7
 
   # Deployment job
   deploy:
