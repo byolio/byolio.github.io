@@ -75,7 +75,7 @@ ga_domain: byolio.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "做一个生活上 earnest 的人 \n my email: blog@byolio.top"
+sidebar-about-description: "做一个生活上 earnest 的人    email: blog@byolio.top"
 sidebar-avatar: /img/myBlog.png  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
