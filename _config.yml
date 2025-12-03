@@ -2,7 +2,7 @@
 title: Byolio Blog
 SEOTitle: Byolio Blog
 header-img: img/home-bg.jpg
-email: 2296526059@qq.com
+email: blog@byolio.top
 description: "这里是 @Byolio 的个人博客，与你一起发现更大的世界"
 keyword: "byolio"
 url: "https://byolio.github.io" # your host, for absolute URL
@@ -76,7 +76,7 @@ ga_domain: byolio.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "做一个生活上 earnest 的人"
-sidebar-avatar: https://github.com/byolio.png  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/myBlog.png  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
