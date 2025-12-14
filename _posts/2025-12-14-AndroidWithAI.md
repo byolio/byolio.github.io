@@ -10,8 +10,9 @@ tags:
     - AI
     - android
 ---
-> ADBkeyBoard github地址: [https://github.com/senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard)
+> ADBkeyBoard github地址: [https://github.com/senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) \
 > AutoGLM github地址: [https://github.com/zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+
 ## 引言
 前段时间的豆包AI助手手机火遍互联网, 其优秀的功能和性能受到了广泛的关注, 被许多人称为AI手机的未来, 刚好我最近发现了AutoGLM项目可以将手机变成一个类似豆包AI手机助手手机的手机, 因此说一下我是如何部署的和对它的评价
 
