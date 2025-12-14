@@ -19,6 +19,7 @@ tags:
 AutoGLM是智谱开源的一个基于GLM模型的自动对话助手, 它可以在手机上运行, 并提供与豆包AI助手类似的功能, github地址为: [https://github.com/zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 
 ## 部署步骤
+
 ### 环境准备工作
 1. 电脑需要有python3.10及以上的环境, python [windows下载](https://www.python.org/downloads/windows/)
 2. 安装ADB, 并将其添加到环境变量中, [ADB下载](https://dl.google.com/android/repository/platform-tools-latest-windows.zip?hl=zh-cn), 如果你是android开发者电脑中有SDK, SDK中默认包含ADB, 直接将SDK添加到环境变量中即可, 可以输入cmd指令:
@@ -30,6 +31,7 @@ AutoGLM是智谱开源的一个基于GLM模型的自动对话助手, 它可以�
 1. 如果你在运行AutoGLM时android手机上没有安装ADB KeyBoard应用, 那么在启动时会得到一个 \
 `Checking ADB Keyboard... ❌ FAILED` \
 因此需要安装一个ADB KeyBoard应用, 用于通过ADB KeyBoard应用将ADB命令转变成文字, [下载apk](https://github.com/senzhk/ADBKeyBoard/blob/master/ADBKeyboard.apk), 并将其安装到手机上, 安装完成后, 重启手机(重启速度稍慢, 需要耐心等待)并在手机的设置 -> 语法和输入法中开启ADB KeyBoard应用作为输入法, 然后再重新启动上面的手机开发者模式和USB调试模式, 并通过数据线连接到电脑
+
 ### 安装AutoGLM
 1. 通过git克隆AutoGLM项目
     ```cmd
@@ -40,15 +42,17 @@ AutoGLM是智谱开源的一个基于GLM模型的自动对话助手, 它可以�
     pip install -r requirements.txt 
     pip install -e .
     ```
+
 ### 配置魔塔模型API服务
 这里以免费的阿里ModelScope提供的服务为例, [使用模型AutoGLM-Phone-9B](https://modelscope.cn/models/ZhipuAI/AutoGLM-Phone-9B/summary), 注册一个账号, 点开个人主页->访问令牌, 生成一个访问令牌以获取魔塔的免费API-Inference等服务, 将访问令牌复制下来
+
 ### 使用AutoGLM
 接下来就可以使用AutoGLM了, 指令为:
 ```cmd
 python main.py --base-url https://api-inference.modelscope.cn/v1 --model "ZhipuAI/AutoGLM-Phone-9B" --apikey "your-modelscope-api-key" "###"
 ```
 将上面的`your-modelscope-api-key`替换成你刚才复制的访问令牌, `"###"`替换成你要让AutoGLM执行的指令, 例如: "打开美团搜索附近的火锅店", 然后回车运行, 如果一切顺利, 你会看到如下输出:
-```
+```txt
 ==================================================
 💭 思考过程:
 --------------------------------------------------
