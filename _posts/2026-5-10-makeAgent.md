@@ -461,7 +461,7 @@ class ContextManager:
     def _condense_context(self):
         """核心：执行上下文克隆与压缩"""
         print(
-            f"\n{Colors.YELLOW}[System] 达到上下文阈值 ({len(self.messages)}/{self.condense_threshold})，正在执行状态压缩...{Colors.RESET}")
+            f"\n{Colors.YELLOW}[byolio Agent System] 达到上下文阈值 ({len(self.messages)}/{self.condense_threshold})，正在执行状态压缩...{Colors.RESET}")
 
         # 1. 构建专门用于总结的提示词
         condense_prompt = (
@@ -477,7 +477,7 @@ class ContextManager:
         last_message = self.messages[-1]
         continuation_msg = last_message if last_message["role"] == "user" else {
             "role": "user",
-            "content": "Harness System: [Context Condensed] 系统已将之前的历史压缩为快照。请阅读 System Prompt 中的 <Current_Project_State>，并继续执行你的下一步计划。"
+            "content": "byolio Agent System: [Context Condensed] 系统已将之前的历史压缩为快照。请阅读 System Prompt 中的 <Current_Project_State>，并继续执行你的下一步计划。"
         }
 
         # 2. 调用模型生成快照（排除第一个 system prompt）
@@ -495,10 +495,10 @@ class ContextManager:
                 {"role": "system", "content": self._get_dynamic_system_prompt()},
                 continuation_msg
             ]
-            print(f"{Colors.GREEN}[System] 上下文已重置，冗余记忆已剔除。{Colors.RESET}\n")
+            print(f"{Colors.GREEN}[byolio AgentSystem] 上下文已重置，冗余记忆已剔除。{Colors.RESET}\n")
 
         except Exception as e:
-            print(f"{Colors.RED}[System] 压缩失败: {e}，将继续维持现有上下文。{Colors.RESET}")
+            print(f"{Colors.RED}[byolio Agent System] 压缩失败: {e}，将继续维持现有上下文。{Colors.RESET}")
 
 ```
 * 这个方法在消息队列过长时会将上下文压缩为一个快照, 并以system角色作为系统提示词添加到消息列表中, 同时保留最后一条用户输入或者环境反馈作为触发继续执行的消息。通过这样的方式, 可以让Agent在上下文过长时能够继续执行任务而不会因为上下文过大而导致模型无法处理的问题。同时也通过提示词来引导Agent能够理解当前的状态快照, 从而更好地进行思考和决策。
