@@ -1,0 +1,5 @@
+provider: "siliconflow"
+model: "deepseek-ai/DeepSeek-V4-Pro"
+base_lang: "zh-CN"
+target_langs:
+  - "en"
