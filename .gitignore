@@ -11,5 +11,5 @@ node_modules
 .jekyll-cache
 */.DS_Store
 */*/.DS_Store
-.blog-global-ignore
-.blog-global.yml
+/.blog-global-ignore
+/.blog-global.yml
