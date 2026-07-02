@@ -9,6 +9,9 @@ catalog: true
 tags:
     - RocketMQ
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2024-12-20-MessageImplementationPrinciple/) | [English](https://www.byolio.blog/en/en/_posts/2024-12-20-MessageImplementationPrinciple/)
+
 > 本文旨在对RocketMQ的消息实现原理进行解释，主要包括延迟消息, 事务消息, 顺序消息。
 
 ## 什么是消息

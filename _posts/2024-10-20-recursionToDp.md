@@ -11,6 +11,9 @@ tags:
     - algorithm
     - dp
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2024-10-20-recursionToDp/) | [English](https://www.byolio.blog/en/en/_posts/2024-10-20-recursionToDp/)
+
 > 让我们走向dp的世界
 
 本章测试链接 :  \

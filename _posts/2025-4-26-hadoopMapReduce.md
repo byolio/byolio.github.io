@@ -11,6 +11,9 @@ tags:
     - hadoop
     - java
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2025-4-26-hadoopMapReduce/) | [English](https://www.byolio.blog/en/en/_posts/2025-4-26-hadoopMapReduce/)
+
 > 本文主要介绍如何通过IDEA完成项目导入与jar包的上传并在hadoop上完成MapReduce任务的执行(需要已经写好的java项目和对应的jar包)
 
 ## 引言

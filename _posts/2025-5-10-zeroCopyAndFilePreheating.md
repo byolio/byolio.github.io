@@ -10,6 +10,9 @@ tags:
     - RocketMQ
     - linux
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2025-5-10-zeroCopyAndFilePreheating/) | [English](https://www.byolio.blog/en/en/_posts/2025-5-10-zeroCopyAndFilePreheating/)
+
 > 本文主要介绍linux的零拷贝和文件预热的基础知识
 
 ## 零拷贝

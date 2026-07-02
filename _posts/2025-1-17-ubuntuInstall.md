@@ -9,6 +9,9 @@ catalog: true
 tags:
     - linux
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2025-1-17-ubuntuInstall/) | [English](https://www.byolio.blog/en/en/_posts/2025-1-17-ubuntuInstall/)
+
 > 本文主要介绍了如何将电脑改为Ubuntu系统。
 
 ## 引言

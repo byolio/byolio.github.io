@@ -11,6 +11,9 @@ tags:
     - AI
     - 图灵测试
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2024-11-14-TuringTest/) | [English](https://www.byolio.blog/en/en/_posts/2024-11-14-TuringTest/)
+
 > 本文旨在聊一聊目前较为有名的ai智能测试方案
 
 ## 引子

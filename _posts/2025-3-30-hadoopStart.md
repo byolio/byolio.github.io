@@ -10,6 +10,9 @@ tags:
     - linux
     - hadoop
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2025-3-30-hadoopStart/) | [English](https://www.byolio.blog/en/en/_posts/2025-3-30-hadoopStart/)
+
 > 本文主要介绍hadoop部署过程最后的初始化和启动与关闭步骤
 
 ## 引言
