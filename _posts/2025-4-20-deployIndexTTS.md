@@ -10,9 +10,6 @@ tags:
     - AI
     - IndexTTS
 ---
-
-> 🌐 [中文](/2025-4-20-deployIndexTTS/) | [English](/en/en/_posts/2025-4-20-deployIndexTTS/)
-
 > 本文旨在介绍如何在windows平台上部署IndexTTS模型。
 
 ## IndexTTS是什么

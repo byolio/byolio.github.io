@@ -10,9 +10,6 @@ tags:
     - c++
     - algorithm
 ---
-
-> 🌐 [中文](/2025-10-31-fastPower/) | [English](/en/en/_posts/2025-10-31-fastPower/)
-
 > 本文旨在讲解如何实现乘法快速幂和矩阵快速幂
 > 本章测试连接为 : 
 > 乘法快速幂: [https://www.luogu.com.cn/problem/P1226](https://www.luogu.com.cn/problem/P1226)

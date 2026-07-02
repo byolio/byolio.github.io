@@ -10,9 +10,6 @@ tags:
     - AI
     - android
 ---
-
-> 🌐 [中文](/2025-12-14-AndroidWithAI/) | [English](/en/en/_posts/2025-12-14-AndroidWithAI/)
-
 > ADBkeyBoard github地址: [https://github.com/senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) \
 > AutoGLM github地址: [https://github.com/zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 
