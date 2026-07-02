@@ -10,6 +10,9 @@ tags:
     - linux
     - hadoop
 ---
+
+> 🌐 [中文](/2025-3-16-hadoopExtend/) | [English](/en/en/_posts/2025-3-16-hadoopExtend/)
+
 > 本文主要介绍hadoop部署过程中的相关扩展内容, 以方便进一步进行接下来的hadoop部署操作
 
 ## 引言

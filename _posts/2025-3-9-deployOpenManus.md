@@ -10,6 +10,9 @@ tags:
     - AI
     - OpenManus
 ---
+
+> 🌐 [中文](/2025-3-9-deployOpenManus/) | [English](/en/en/_posts/2025-3-9-deployOpenManus/)
+
 > 本章主要介绍OpenManus的部署与使用。(请在外网下部署与使用OpenManus, 否则会出现无法安装依赖和无法使用google search的问题)
 > OpenManus Github地址 : [https://github.com/mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 

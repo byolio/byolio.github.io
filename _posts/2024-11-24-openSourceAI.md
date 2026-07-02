@@ -10,6 +10,9 @@ tags:
     - 浅谈
     - AI
 ---
+
+> 🌐 [中文](/2024-11-24-openSourceAI/) | [English](/en/en/_posts/2024-11-24-openSourceAI/)
+
 > 本次测试主要使用的是笔电常见的本地部署模型测试。
 
 ## 引子

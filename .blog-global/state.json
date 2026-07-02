@@ -1,0 +1,281 @@
+{
+  "version": 1,
+  "files": {
+    "_posts/2024-10-11-fib.md": {
+      "hash": "6123d7ed7bb47e793e35b237d7342d578b5621eb11920bf74fadb51c7af9dcee",
+      "translated": {
+        "en": "3783dc876fa81db21cd47c01cbf14463d455e487c37c4147018e29e24839c8df"
+      }
+    },
+    "_posts/2024-10-2-conda.md": {
+      "hash": "72703789d891f5089c10db4a67b84f9f9d48d859dbe93e83c252af3514a244ec",
+      "translated": {
+        "en": "131e22a3a1fe36de63a264b6bf12b659fb5e3eb140ff66ced704c741fb8e566d"
+      }
+    },
+    "_posts/2024-10-20-recursionToDp.md": {
+      "hash": "c52661f647d2c6b500ef1a3b8989e1a4d26938f948ef7d41c37b7af05a3e8f22",
+      "translated": {
+        "en": "e1f105fd18c9f6954103f34385074b3723593f90b74adf5cacd8bfadd10657d9"
+      }
+    },
+    "_posts/2024-10-27-vps.md": {
+      "hash": "a00f5f935b4305f7492bbff804004dfb22945a0717ad1e48c0805a0073c12fb3",
+      "translated": {
+        "en": "9a2fa55ef68252f81583a83cc0b1b5da3fc5216cbec0ee64b25871d6e9534331"
+      }
+    },
+    "_posts/2024-10-6-AGI.md": {
+      "hash": "5e887e0a2b30ab60acb76c0dac3e851737b678b57b81783c79abf218ee6d62d9",
+      "translated": {
+        "en": "1690be0960f6f7f453e77e9730ec9667a98012f68994c602fdf03d93dea8d706"
+      }
+    },
+    "_posts/2024-11-14-TuringTest.md": {
+      "hash": "c9a9a8888d82366e0454e3ce2316dbafcd6bd12d5439933741a78f284afbdf53",
+      "translated": {
+        "en": "f503dbfa4d7675201ae2c25428ec1048ea74efd05ad296706582f281b9fa8cb1"
+      }
+    },
+    "_posts/2024-11-20-llama3.2.md": {
+      "hash": "de45dbd5f012cbcb385c8cfbc18f1dfe636e8aab46e91ecdef86ee542dcdb697",
+      "translated": {
+        "en": "c8036f05d3b6b99659dca0320731192d239f9e4074c858562c36a97b23226674"
+      }
+    },
+    "_posts/2024-11-23-mysqlOnServer.md": {
+      "hash": "bff5a6e7ee8d6842c9f905e0ba3dff38fc34e59f26149ae74f4ed76482034696",
+      "translated": {
+        "en": "ab5c53a1faff1ca5e45ace835d8e7bfb14ebb84aa24e18ad4648a3cca7c6a044"
+      }
+    },
+    "_posts/2024-11-24-openSourceAI.md": {
+      "hash": "47e12d992d1e7c841bcaa78a22ebdebbd84d01b29fa4ea33fc16eb0ba6e7fa25",
+      "translated": {
+        "en": "c2cb24ab59b1b823c4e27060d5073f76873bb648989927b89db3b32a23ba4c0a"
+      }
+    },
+    "_posts/2024-11-30-CppReference.md": {
+      "hash": "144a067fae82e5e78b050e2478762215d9ef70c2e5fe01d2ff3a308427faf7cb",
+      "translated": {
+        "en": "315a39065a1316001d91666d8c20702d68952b99cfab06e9967c4b4034e2faee"
+      }
+    },
+    "_posts/2024-11-30-torch.md": {
+      "hash": "ee3510a62a3ab4059c79c95ee4d4388195bb0bbbcc6a77d3b3f5653fa4f20a2e",
+      "translated": {
+        "en": "2df38e1d4e9bd918e1e04fb4a7f408ca03a9d78d75d098e9ff093962dcbdfdb7"
+      }
+    },
+    "_posts/2024-12-14-PyTorchModel.md": {
+      "hash": "990bb3763c73eb1547ac3221dff2f5be95330484e0f806e2f6c3583fb13ece82",
+      "translated": {
+        "en": "0a792da23b02acd89142df926f2f5ea445635192a83dbce924c1f6cb6541c504"
+      }
+    },
+    "_posts/2024-12-15-cudaPyTorch.md": {
+      "hash": "53b883fe1facdf939005cb9794a98cf739753db16564914d10d5ef3466df2d21",
+      "translated": {
+        "en": "f560d4a191440d13d4343d7bff848991e40e48236b1079a77db2d630649d996f"
+      }
+    },
+    "_posts/2024-12-20-MessageImplementationPrinciple.md": {
+      "hash": "1fb9c2c598afedca0f55c3bac5bae1dba6211ed5215b79c7b7e0b2de55c65a46",
+      "translated": {
+        "en": "8096e80a326b2bb0f9093577c68467699c23f9325ebeefd5b0db5bbf147d754d"
+      }
+    },
+    "_posts/2024-12-3-mysqlCharsetAndCollation.md": {
+      "hash": "cf6b083230bc3648aeddd8764a3954d0b3c7fd8ad732fec796b999f8610f1d35",
+      "translated": {
+        "en": "329864663b96e8a61afae074c01b2c3b294c16a2a89ebcc74a33ff8f4f37e8ae"
+      }
+    },
+    "_posts/2024-12-3-RocketMQqueue.md": {
+      "hash": "b34a2f7a9754c680ddef555c2fa11aba7277cd4299fc5f30938d81d59c671f27",
+      "translated": {
+        "en": "9d7ab2b7b7e478fc012f447088394fee4086a070834530ce8f45347f8581f6a6"
+      }
+    },
+    "_posts/2024-12-5-arrSum.md": {
+      "hash": "98c5812728e4e075e6a8ff3231e480438627f645ad07ae37cef648be67cedaa5",
+      "translated": {
+        "en": "a549f0e4f60123594731c9123aa211a196264e7577d81a46917bfb57c78ec28a"
+      }
+    },
+    "_posts/2024-12-6-MySQLDataDir.md": {
+      "hash": "81909fa3bfbd2f2bd8306b0865318cb139ea7d17f078770d9027d7a8476f77d8",
+      "translated": {
+        "en": "282650ae5dd6012591e3b04c05e6e76c70fdc6bc70af9c75c38a98ea8c59270d"
+      }
+    },
+    "_posts/2024-12-7-RocketMQNameSrv.md": {
+      "hash": "abdfd321d3ca213934c1eeedac0c769389c7ee49d9c80033b180e001e549a63f",
+      "translated": {
+        "en": "1f757d8c48144ab5386d9dad76f2de0f60cea3083d168c1613d090e5c352a874"
+      }
+    },
+    "_posts/2025-1-1-AI2024.md": {
+      "hash": "d01aef34176751b74eaa00b0c9cdc926317a1fe3b9a28c6fbc9e0290f9c27a12",
+      "translated": {
+        "en": "dc5354e61ef52f5807f1b90218ae735676d21988c63624d4c8feaae8e9198026"
+      }
+    },
+    "_posts/2025-1-17-ubuntuInstall.md": {
+      "hash": "499551e84f7a70849bf7c956d5c922d8f9ddfc50f53d4800816223f8ee46419c",
+      "translated": {
+        "en": "6199559c6f471ad0d6f451abd0908d8c7f152ae2bad6530051ca25ee788caf4c"
+      }
+    },
+    "_posts/2025-1-2-MySQLIndex.md": {
+      "hash": "1254385782d3b6c5112f2195c4ba853e6d51bdd3185b1b11dc92253f78059752",
+      "translated": {
+        "en": "05873c39e9364c172d1f9711b3ca70e67373dd16b9b3c783330bfcf4abe3c8c5"
+      }
+    },
+    "_posts/2025-1-24-oneToTwoOptimize.md": {
+      "hash": "49c3d7480b8e69003684cf14a544fbbbb3a38721c7e284ea1515b3119b171ea1",
+      "translated": {
+        "en": "2de073c9cc224fe25c8d2d2062e717ce49dda6a693a1ec041b68f5ec5c17bd64"
+      }
+    },
+    "_posts/2025-1-25-MultipleBag.md": {
+      "hash": "51ce6eb09113e1b0d9791dd33ee9bdb718764f4c3318725a5089bcc716471a52",
+      "translated": {
+        "en": "6c8b0dab3fb85a25f232abf972df8e58ee0d00c08f43d4ffcc8198a440028e81"
+      }
+    },
+    "_posts/2025-1-28-DockerDeepseekR1.md": {
+      "hash": "3be10d0fe9085009c527b5659e96799e9c83c1ea55d0246850395021885a365e",
+      "translated": {
+        "en": "99998f01602bf38df886ec9a72986d564780bd22e00b269b8d1894eb1173c865"
+      }
+    },
+    "_posts/2025-10-31-fastPower.md": {
+      "hash": "ea889d2c450c5aa5c1142ea0ce9790f68fad29ec55006765d201a623cf1f3d11",
+      "translated": {
+        "en": "c210636fc35354a88e95562e4e80a615a25ac18f4245db335f79a289acadd5e3"
+      }
+    },
+    "_posts/2025-12-14-AndroidWithAI.md": {
+      "hash": "e349c38c53d9d75d5aba04242e184691f10ea46aa7db4bce1818ad4a9e6de6c0",
+      "translated": {
+        "en": "62364338a9a498f0940dc1790c242659ac4f44c9528c6e9adee5808c6df65288"
+      }
+    },
+    "_posts/2025-2-23-hadoopdeploy.md": {
+      "hash": "6e74540e06d7add3267e92c6a80346aec69d1c8ed27242cb8007459739d0f8fc",
+      "translated": {
+        "en": "f5968a56bd09e0f96ea5c4afcbbbcb809fceff5784586ca1e7648d10a8b7cacc"
+      }
+    },
+    "_posts/2025-3-12-hadoopCopy.md": {
+      "hash": "da61e16d6d7f17398a1a83cda0d11390d7097424eb830ff1e56887be82fac6b3",
+      "translated": {
+        "en": "477e2fc0d4dfb0c64a93c984ba469f9181975be466f0592c3b243da36a5aff18"
+      }
+    },
+    "_posts/2025-3-16-hadoopExtend.md": {
+      "hash": "8cb8ebf9570c24a1fe531d678885f43765a6afc0c7ac784ff731c62df32168ff",
+      "translated": {
+        "en": "8bb14c765a0d18d23919d7c55d2f13fdb54e7867b8777682ad7c0eeec22249eb"
+      }
+    },
+    "_posts/2025-3-2-InstallJdkHadoop.md": {
+      "hash": "9d63cff41d25c53ffbad8f4067d7deb5d9fb4bae7a437a59cd22710b3f3b2fa8",
+      "translated": {
+        "en": "8fd77f1ef69d64acafc7f10b7078a26a928aa853c321b963583c6516bd1d62b1"
+      }
+    },
+    "_posts/2025-3-23-hadoopConf.md": {
+      "hash": "aa75ac3f2aa80f64e26cf7f44c2d473dc86152424b8691ad3d99d17e093999d6",
+      "translated": {
+        "en": "b4088306462db20f919851756e279e65aa4a92077c3e44af77ddf75d13a917b6"
+      }
+    },
+    "_posts/2025-3-30-hadoopStart.md": {
+      "hash": "6733a866e7eebd4a36625f9c3bafdc637a529f6250e3d1b94ae9b6cb2131e389",
+      "translated": {
+        "en": "7a94798ad37023c828cf83734883b62175664e3072942babf29c8a350c8e3044"
+      }
+    },
+    "_posts/2025-3-9-deployOpenManus.md": {
+      "hash": "6af7c85f9202cd8b14a252fd51a4305c7e35a0a5c0aa8a251838467776724e01",
+      "translated": {
+        "en": "fba65c9b3feb4a29f2708847955b94eff929e46dbb7dc24c90c8ac7a68eb6ad0"
+      }
+    },
+    "_posts/2025-4-20-deployIndexTTS.md": {
+      "hash": "1b6cb5a962d6ffd95695cc4e85e9a7879b0410ff29f4621c6e301dfd96f91705",
+      "translated": {
+        "en": "0644fb557bc1d242d53d2316f8c515c0e22ae936bc31e765c10c9c7039644e74"
+      }
+    },
+    "_posts/2025-4-26-hadoopMapReduce.md": {
+      "hash": "baa67ed560f6407c37d85394962659c078541d9f00c7b5566a4df8b8fe26930d",
+      "translated": {
+        "en": "47f96e22852e6741f5151cee37691c7bda7560fa36462a444775ce17b6f17186"
+      }
+    },
+    "_posts/2025-5-10-zeroCopyAndFilePreheating.md": {
+      "hash": "7bc76e1ddcf6c5c0c92d56f9f07a9fdf585136eaebc388f7abaf081df262eb20",
+      "translated": {
+        "en": "45d498960c725e887ffa974e6f90ba2efadeab32d6dd7597601e9a03f7ca5f1a"
+      }
+    },
+    "_posts/2025-5-19-MCPAndProverModel.md": {
+      "hash": "4ce23a8294c5a7b04caf526006d0a66288b51a7ae2be5f3de1ed64b654ea809b",
+      "translated": {
+        "en": "2e8d18e9fdb8e04227d8de277f5a89498cd451381e5b0fae6e8f1f7ac2c4487c"
+      }
+    },
+    "_posts/2025-6-20-KMP.md": {
+      "hash": "6f22814bd959906a402dab376608b97dd8692422101d30e282dd1d204054bb5a",
+      "translated": {
+        "en": "d82661e8e5445b43dd8691b8df74eb43f2f11b406fc52dab22cbc1a2cdea880b"
+      }
+    },
+    "_posts/2025-9-19-java25.md": {
+      "hash": "9c5a3d9f7e8253e247e7d8192051a7c02da28ae57bbefa9708a64cd4fbc0b947",
+      "translated": {
+        "en": "92c856ff28e0aaf8cae1efd52fd3a13ae1f21e26716d26b6b677ce266751d49e"
+      }
+    },
+    "_posts/2025-9-21-SumIsK.md": {
+      "hash": "d8d2202862f4104a990bf34d2295473552805fb64982cbb8df5ba44329dbc78b",
+      "translated": {
+        "en": "77acad851f4fae927f440642ab7335527b1aa2caba2320e29fb96b3034da7fa8"
+      }
+    },
+    "_posts/2026-1-15-2025AISummary.md": {
+      "hash": "af888f2e42933e4b87ef2b326f4c0a2d0488fa810833dcf189c946bde3b33a4d",
+      "translated": {
+        "en": "7d23794a54cdbdfc362e9fe5ff85bf8b3af2bbf222f7125bd9526bf6808cebdb"
+      }
+    },
+    "_posts/2026-3-12-WorkBuddyAndQQ.md": {
+      "hash": "b543d3eba2bd2eb15765cc4db9f95de86d9794b8f7cba0a80869b51dd4a3f376",
+      "translated": {
+        "en": "02cd32aca7e096bc6b55aeffe10c1759c00b3ec77a87c304550d08a1980d8113"
+      }
+    },
+    "_posts/2026-5-10-makeAgent.md": {
+      "hash": "3b3c6b8b671f0d37fd9d61566d0528d577769171544f2bc8a06d58b1daf7497d",
+      "translated": {
+        "en": "de1296605fb4c2fa55430f2ac0cb70e4bf8841e8aae91cd94776f101c7bd016b"
+      }
+    },
+    "_posts/2026-6-18-Disruptor.md": {
+      "hash": "2af438df2d4c296fde8fa71f61400df75fe84b25461b6d391da277da9d6c57ce",
+      "translated": {
+        "en": "532209c89e04c803b04e888b649b0056aefcbed6f23c56abe8ef271290751040"
+      }
+    },
+    "_posts/2026-6-23-DDD.md": {
+      "hash": "d51cd7ff1693edf8d75aa757497a2f62470f832d734fb44e5a6f062c8451fb97",
+      "translated": {
+        "en": "f09f4b0d0a53b1573c71b69b70ed4b74379f2588ff9075a0b28796b00dbaeaca"
+      }
+    }
+  }
+}

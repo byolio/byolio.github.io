@@ -9,6 +9,9 @@ catalog: true
 tags:
     - RocketMQ
 ---
+
+> 🌐 [中文](/2024-12-3-RocketMQqueue/) | [English](/en/en/_posts/2024-12-3-RocketMQqueue/)
+
 > 本文旨在介绍两种消息队列基础模式的原理解释。
 
 

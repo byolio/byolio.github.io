@@ -9,6 +9,9 @@ catalog: true
 tags:
     - c++
 ---
+
+> 🌐 [中文](/2024-11-30-CppReference/) | [English](/en/en/_posts/2024-11-30-CppReference/)
+
 > 什么是左值和右值, 引用c++左值和右值引用的区别
 
 ## 左值和右值的区别
