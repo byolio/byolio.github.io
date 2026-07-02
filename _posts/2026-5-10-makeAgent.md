@@ -12,8 +12,6 @@ tags:
     - AI
 ---
 
-> 🌐 [中文](/2026-5-10-makeAgent/) | [English](/en/en/_posts/2026-5-10-makeAgent/)
-
 ## Agent是什么
 Agent是以LLM为核心, 集成了工具调用, 规划能力, 及记忆功能, 能够根据用户的指令, 调用工具, 完成任务。也基于Agent出现了很多衍生的概念, 如skills, harness engineering, Agentic Search等。为了搞懂这些, 我研究了claude code泄露的代码和目前大火的speckit(harness框架)并进行了分析, 接下来我将从0到1实现一个集成了这些功能的Agent, 并介绍其工作原理。
 

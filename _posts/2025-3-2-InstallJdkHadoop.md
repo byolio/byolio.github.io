@@ -10,9 +10,6 @@ tags:
     - linux
     - hadoop
 ---
-
-> 🌐 [中文](/2025-3-2-InstallJdkHadoop/) | [English](/en/en/_posts/2025-3-2-InstallJdkHadoop/)
-
 > 本文主要介绍了如何布置hadoop3.x集群的jdk和hadoop依赖
 
 ## 前言

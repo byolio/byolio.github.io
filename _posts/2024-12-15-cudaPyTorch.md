@@ -11,9 +11,6 @@ tags:
     - PyTorch
     - cuda
 ---
-
-> 🌐 [中文](/2024-12-15-cudaPyTorch/) | [English](/en/en/_posts/2024-12-15-cudaPyTorch/)
-
 > 本文介绍如何通过CUDA来加速PyTorch深度学习模型的训练(本文需要有CUDA的NVIDIA GPU显卡, 且CUDA驱动版本要与PyTorch版本相兼容)
 
 ## 什么是CUDA？

@@ -11,8 +11,6 @@ tags:
     - 浅谈
 ---
 
-> 🌐 [中文](/2025-5-19-MCPAndProverModel/) | [English](/en/en/_posts/2025-5-19-MCPAndProverModel/)
-
 ## 引言
 早就想写MCP了，但是一直因为内容过少没写，最近看了一下deepseek-prover-v2的相关资料，感觉很有意思，就合在一起写了这篇文章。
 
