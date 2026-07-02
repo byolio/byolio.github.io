@@ -10,6 +10,9 @@ tags:
     - AI
     - PyTorch
 ---
+
+> 🌐 [中文](/2024-12-14-PyTorchModel/) | [English](/en/en/_posts/2024-12-14-PyTorchModel/)
+
 > 本文旨在介绍PyTorch高效建立一个AI模型所需的Module, 不涉及数据的预处理, 模型训练等, 只涉及到模型的建立, 作为一个快速了解PyTorch建立一个AI模型所需的Module的文章。
 
 ## 用PyTorch建立一个AI模型所需的环境
