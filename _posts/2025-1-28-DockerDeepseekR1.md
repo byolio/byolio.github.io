@@ -11,9 +11,6 @@ tags:
     - linux
     - docker
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2025-1-28-DockerDeepseekR1/) | [English](https://www.byolio.blog/en/en/_posts/2025-1-28-DockerDeepseekR1/)
-
 > 本文旨在介绍两种在电脑使用docker部署Deepseek-R1的方法。(本文涉及docker官方仓库和chrome插件商店的访问, 请确保网络通畅)
 
 ## 什么是Deepseek-R1

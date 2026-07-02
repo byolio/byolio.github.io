@@ -13,8 +13,6 @@ tags:
     - SpringBoot
 ---
 
-> 🌐 [中文](https://www.byolio.blog/2026-6-18-Disruptor/) | [English](https://www.byolio.blog/en/en/_posts/2026-6-18-Disruptor/)
-
 ## 引言
 在使用 WebSocket 编写多人团队协作或实时聊天系统时，通常会遇到一个性能瓶颈：当 WebSocket 线程接收到一个团队消息后，如果直接在当前线程中同步处理耗时的业务逻辑（如数据库持久化、权限校验、广播分发等），就会导致该线程被长时间占用。
 

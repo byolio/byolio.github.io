@@ -10,9 +10,6 @@ tags:
     - mysql
     - linux
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2024-12-6-MySQLDataDir/) | [English](https://www.byolio.blog/en/en/_posts/2024-12-6-MySQLDataDir/)
-
 > 本文旨在介绍Linux上MySQL关于表的目录结构。
 
 

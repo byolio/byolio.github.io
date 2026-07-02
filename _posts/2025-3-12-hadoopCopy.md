@@ -10,9 +10,6 @@ tags:
     - linux
     - hadoop
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2025-3-12-hadoopCopy/) | [English](https://www.byolio.blog/en/en/_posts/2025-3-12-hadoopCopy/)
-
 > 本文主要介绍了如何克隆vmware虚拟机, 并对克隆后的虚拟机其进行配置
 
 ## 前言

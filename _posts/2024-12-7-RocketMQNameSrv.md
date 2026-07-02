@@ -9,9 +9,6 @@ catalog: true
 tags:
     - RocketMQ
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2024-12-7-RocketMQNameSrv/) | [English](https://www.byolio.blog/en/en/_posts/2024-12-7-RocketMQNameSrv/)
-
 > 本文旨在介绍RocketMQ的NameSrv的工作原理。
 
 ## 什么是NameSrv
