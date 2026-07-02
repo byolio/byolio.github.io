@@ -11,9 +11,6 @@ tags:
     - algorithm
     - algorithm optimization
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2025-1-24-oneToTwoOptimize/) | [English](https://www.byolio.blog/en/en/_posts/2025-1-24-oneToTwoOptimize/)
-
 > 本文主要介绍了将二维数组优化为一维数组的算法逻辑本质。
 > 测试链接 : [https://www.luogu.com.cn/problem/P1048](https://www.luogu.com.cn/problem/P1048)
 

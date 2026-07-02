@@ -11,8 +11,6 @@ tags:
     - AI
 ---
 
-> 🌐 [中文](https://www.byolio.blog/2026-3-12-WorkBuddyAndQQ/) | [English](https://www.byolio.blog/en/en/_posts/2026-3-12-WorkBuddyAndQQ/)
-
 ## 引言
 随着QQ在正式宣布亲自下场接入OpenClaw的QQ机器人后，推出了WorkBuddy平台软件帮助用户更快的部署私人QQ的OpenClaw机器人助手, 实现步骤如下
 

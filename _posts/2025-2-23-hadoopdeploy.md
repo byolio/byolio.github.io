@@ -10,9 +10,6 @@ tags:
     - linux
     - hadoop
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2025-2-23-hadoopdeploy/) | [English](https://www.byolio.blog/en/en/_posts/2025-2-23-hadoopdeploy/)
-
 > 本文主要介绍了如何布置hadoop3.x集群所需虚拟机的过程
 
 ## 什么是hadoop

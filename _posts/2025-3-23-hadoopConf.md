@@ -10,9 +10,6 @@ tags:
     - linux
     - hadoop
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2025-3-23-hadoopConf/) | [English](https://www.byolio.blog/en/en/_posts/2025-3-23-hadoopConf/)
-
 > 本文主要介绍hadoop部署过程中的相关配置文件的基础配置
 
 ## 引言

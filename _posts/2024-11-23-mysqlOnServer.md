@@ -10,9 +10,6 @@ tags:
     - linux
     - mysql
 ---
-
-> 🌐 [中文](https://www.byolio.blog/2024-11-23-mysqlOnServer/) | [English](https://www.byolio.blog/en/en/_posts/2024-11-23-mysqlOnServer/)
-
 > 本文旨在centos7服务器上搭建MySQL8.0
 
 搭建之前需要部署好一台虚拟机或服务器, 并拥有一定linux相关知识。
