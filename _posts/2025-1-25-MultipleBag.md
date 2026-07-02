@@ -10,6 +10,9 @@ tags:
     - c++
     - algorithm
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2025-1-25-MultipleBag/) | [English](https://www.byolio.blog/en/en/_posts/2025-1-25-MultipleBag/)
+
 > 本文旨在对多重背包问题的算法逻辑进行优化。
 > 本章测试链接 : [https://www.luogu.com.cn/problem/P1776](https://www.luogu.com.cn/problem/P1776)
 

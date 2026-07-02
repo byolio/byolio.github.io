@@ -9,6 +9,9 @@ catalog: true
 tags:
     - mysql
 ---
+
+> 🌐 [中文](https://www.byolio.blog/2024-12-3-mysqlCharsetAndCollation/) | [English](https://www.byolio.blog/en/en/_posts/2024-12-3-mysqlCharsetAndCollation/)
+
 > 本文旨在对mysql字符集与比较规则的系统性的聊一聊。
 
 ## 什么是mysql字符集与比较规则
